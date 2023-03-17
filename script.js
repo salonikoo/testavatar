@@ -7,12 +7,12 @@ const avatarClothes = document.querySelector('.avatar-clothes img');
 const avatarAccessories = document.querySelector('.avatar-accessories img');
 
 // Define arrays for each avatar component type
-const faces = ['face1.png', 'face2.png', 'face3.png'];
-const hairs = ['hair1.png', 'hair2.png', 'hair3.png'];
-const eyes = ['eyes1.png', 'eyes2.png', 'eyes3.png'];
-const mouths = ['mouth1.png', 'mouth2.png', 'mouth3.png'];
-const clothes = ['clothes1.png', 'clothes2.png', 'clothes3.png'];
-const accessories = ['accessories1.png', 'accessories2.png', 'accessories3.png'];
+const faces = ['face1.png', 'face2.png', 'face3.png', 'face4.png', 'face5.png', 'face6.png'];
+const hairs = ['hair1.png', 'hair2.png', 'hair3.png', 'hair4.png', 'hair5.png', 'hair6.png'];
+const eyes = ['eyes1.png', 'eyes2.png', 'eyes3.png', 'eyes4.png', 'eyes5.png', 'eyes6.png'];
+const mouths = ['mouth1.png', 'mouth2.png', 'mouth3.png', 'mouth4.png', 'mouth5.png', 'mouth6.png];
+const clothes = ['clothes1.png', 'clothes2.png', 'clothes3.png', 'clothes4.png', 'clothes5.png', 'clothes6.png'];
+const accessories = ['accessories1.png', 'accessories2.png', 'accessories3.png', 'accessories4.png', 'accessories5.png', 'accessories6.png'];
 
 // Set up event listeners for each avatar component type
 avatarFace.addEventListener('click', changeFace);
