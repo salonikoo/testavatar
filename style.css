@@ -7,3 +7,47 @@
 .avatar-component:hover {
   opacity: 0.7;
 }
+
+.avatar-face, .avatar-hair, .avatar-eyes, .avatar-mouth, .avatar-clothes, .avatar-accessories {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.avatar-face img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.avatar-hair img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.avatar-eyes img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.avatar-mouth img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.avatar-clothes img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.avatar-accessories img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
