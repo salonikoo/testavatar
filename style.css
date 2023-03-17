@@ -1,6 +1,5 @@
 .avatar-component {
   display: inline-block;
-  margin-right: 10px;
   cursor: pointer;
 }
 
@@ -13,7 +12,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 20px;
 }
 
 .avatar-face img {
