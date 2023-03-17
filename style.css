@@ -1,0 +1,9 @@
+.avatar-component {
+  display: inline-block;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.avatar-component:hover {
+  opacity: 0.7;
+}
