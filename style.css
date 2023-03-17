@@ -49,3 +49,13 @@
   top: 0;
   left: 0;
 }
+.avatar-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.avatar-buttons button {
+  flex: 1;
+  margin-right: 10px;
+}
